@@ -10,3 +10,5 @@ This is going to be merge conflict.
 Neeru is changing  again
 
 New changes for merge conflic from Neeru
+
+This is new conflict
